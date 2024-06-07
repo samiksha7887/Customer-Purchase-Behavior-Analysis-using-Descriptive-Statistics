@@ -9,21 +9,32 @@ The project is structured around five main tasks, each addressing different face
 Task 1 - Basic CleanUp:
 Preprocessed and wrangled the dataset.
 Handled outliers and ensured data consistency.
+
 Task 2 - Descriptive Statistics 📊:
 Explored central tendencies and variations.
 Identified potential outliers.
+
 Task 3 - Probability Distributions 🎲:
 Identified distributions for relevant variables.
 Calculated probabilities and expected values based on these distributions.
+
 Task 4: Insights and Customer Segmentation 📈:
 Explored relationships between customer characteristics and spending habits.
 Utilized KMeans clustering for customer segmentation.
+
 Task 5: Conclusion and Recommendations:
 Provided actionable insights and recommendations based on the analysis.
+
 Libraries Used
+
 pandas: Data manipulation and analysis.
+
 numpy: Numerical operations and array manipulation.
+
 scipy: Scientific computing and statistical analysis.
+
 matplotlib and seaborn: Data visualization.
+
 sklearn: Machine learning, specifically KMeans clustering.
-Applied-Statistics-/README.md at main · Dubeyavya/Applied-Statistics-
+
+
